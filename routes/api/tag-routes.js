@@ -49,6 +49,11 @@ router.post('/', async (req, res) => {
 });
 
 
+// {
+//   "tag_name": "tagExample"
+// }
+
+
 // update a tag's name by its `id` value
 router.put('/:id', async (req, res) => {
   try {
