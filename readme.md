@@ -31,9 +31,6 @@ GIVEN a functional Express.js API
 
 ## Installation 
 
-## Preview
-
-## Usage
 
 ## Demo
 <!-- [Click here to view demo]()  -->
