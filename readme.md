@@ -28,12 +28,11 @@ GIVEN a functional Express.js API
     - THEN I am able to successfully create, update, and delete data in my database
 ```
 
-
-## Installation 
-
-
 ## Demo
-<!-- [Click here to view demo]()  -->
+[Click here to view demo](https://drive.google.com/file/d/1FmrJenxwI0Thdyv4_Gk38sB2A-YCrbec/view?usp=sharing)
+
+## Credit
+Starter code provided by MSU Coding Bootcamp
 
 ## Questions
 [Contact me on GitHub](https://github.com/lsieck519)
